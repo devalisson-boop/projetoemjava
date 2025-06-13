@@ -1,0 +1,47 @@
+# Compiled class files
+*.class
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs
+hs_err_pid*
+
+# IDE files
+*.iml
+.idea/
+*.ipr
+*.iws
+*.bak
+*.swp
+*.swo
+*.tmp
+*.vscode/
+*.classpath
+*.project
+*.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# H2 database files
+*.db
+*.mv.db
+
+# Out directory (sometimes generated)
+out/
